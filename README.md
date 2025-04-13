@@ -40,7 +40,7 @@ This project demonstrates the transformation of raw, flat **sales and budget dat
 - A direct date column from sales table was not used due to potential gaps in dates  
 
 ### 3. Establish Relationships
-
+![Data Model](https://github.com/TiranB/Dimensional-Modeling/blob/main/Logical%20Data%20Model.JPG)
 - Verified and configured correct relationships between fact and dimension tables using **Model View**
 
 ---
