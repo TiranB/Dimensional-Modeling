@@ -58,7 +58,7 @@ This project demonstrates the transformation of raw, flat **sales and budget dat
     - **Drill-in:** *Year-wise bar chart for total sales*  
 - **_Decomposition Tree_** – *Average rating breakdown by category and products (descending)*  
 - **_Treemap_** – *Top 5 best-selling products in May 2015 (highest sales month)*
-
+![sales by Products](https://github.com/TiranB/Dimensional-Modeling/blob/main/Sales%20by%20Products.JPG)
 ---
 
 ### 📄 **Page 2 – State View**
