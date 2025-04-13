@@ -79,7 +79,7 @@ This project demonstrates the transformation of raw, flat **sales and budget dat
 - **_Line & Stacked Column Chart_** – *Budget vs. Actual Sales (with Category-Segment filter)*  
 - **_Stacked Bar Chart_** – *Sales by day of the week*  
   - **Drill-in:** *Top 5 products sold on each day*
-
+![Sales by Dates](https://github.com/TiranB/Dimensional-Modeling/blob/main/Sales%20by%20Dates.JPG)
 ---
 
 ### 📄 **Page 5 – Location Details**
