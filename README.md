@@ -89,7 +89,7 @@ This project demonstrates the transformation of raw, flat **sales and budget dat
   - *Units Sold*  
   - *Profit Earned*  
 - **_Map of USA_** – *Number of customers per state*
-
+![Maps](https://github.com/TiranB/Dimensional-Modeling/blob/main/map.png)
 ---
 
 ### 🛠 **Tooltip Page (Page 5)**
